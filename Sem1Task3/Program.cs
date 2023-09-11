@@ -8,3 +8,5 @@ Console.WriteLine("Введите номер");
 int day = int.Parse(Console.ReadLine());
 
 Console.WriteLine(dayOfWeek[day-1]);
+
+//добавить ограничение по числам (условие), чтобы исключить ошибку
