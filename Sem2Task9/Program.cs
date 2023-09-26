@@ -3,16 +3,56 @@
 //Напишите программу, которая выводит случайное число 
 //из отрезка [10, 99] и показывает наибольшую цифру числа. 
 
-// присвоить переменной рандом значение в промежутке 10-99
-int num = rnd1.Next (10,99);
-Console.write (num);
+void Variant1()
+{
+ Console.WriteLine("Способ 1");
 
-//если остаток от деления на 10 (последняя цифра) больше целого числа деления на 10 (первой цифры)
-if (num % 10 > num / 10)
-{//вывести последнюю цифру
-    Console.write (" -> ", num % 10)
+ System.Random numberGenerator = new System.Random();
+    int number = numberGenerator.Next(10, 100);
+ Console.WriteLine(number);
+
+    //34
+    //34/10 = 3
+    int firstDigit = number / 10;
+    //34%10 = 4
+    int secondDigit = number % 10;
+
+    if (firstDigit > secondDigit)
+    {
+ Console.WriteLine(firstDigit);
+    }
+    else
+    {
+ Console.WriteLine(secondDigit);
+    }
 }
-else
-{//вывести первую цифру
-    Console.write (" -> ", num / 10)
+
+void Variant2()
+{
+    Console.WriteLine("Способ 2");
+
+    System.Random numberGenerator1 = new System.Random();
+    int number1 = numberGenerator1.Next(10, 100);
+    Console.WriteLine(number1);
+
+    Console.WriteLine((number1 / 10 > number1 % 10) ? (int)(number1 / 10) : (int)(number1 % 10));
 }
+
+void Variant3()
+{
+    Console.WriteLine("Способ 3");
+
+    System.Random numberGenerator = new System.Random();
+    int number = numberGenerator.Next(10, 100);
+    Console.WriteLine(number);
+
+    char[] digitChar = number.ToString().ToCharArray();
+    Console.WriteLine((int)digitChar[0]>(int)digitChar[1]?digitChar[0]:digitChar[1]);
+    //<условие>?<вариант1>:<вариант2>
+
+}
+
+
+//Variant1();
+//Variant2();
+Variant3();
