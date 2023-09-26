@@ -1,0 +1,15 @@
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\bin\Debug\net6.0\Sem2Task14.exe
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\bin\Debug\net6.0\Sem2Task14.deps.json
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\bin\Debug\net6.0\Sem2Task14.runtimeconfig.json
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\bin\Debug\net6.0\Sem2Task14.dll
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\bin\Debug\net6.0\Sem2Task14.pdb
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.csproj.AssemblyReference.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.AssemblyInfoInputs.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.AssemblyInfo.cs
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.csproj.CoreCompileInputs.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.dll
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\refint\Sem2Task14.dll
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.pdb
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\Sem2Task14.genruntimeconfig.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem2Task14\obj\Debug\net6.0\ref\Sem2Task14.dll
