@@ -1,0 +1,15 @@
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.csproj.AssemblyReference.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.AssemblyInfoInputs.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.AssemblyInfo.cs
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.csproj.CoreCompileInputs.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\bin\Debug\net6.0\Sem3Task17.exe
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\bin\Debug\net6.0\Sem3Task17.deps.json
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\bin\Debug\net6.0\Sem3Task17.runtimeconfig.json
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\bin\Debug\net6.0\Sem3Task17.dll
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\bin\Debug\net6.0\Sem3Task17.pdb
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.dll
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\refint\Sem3Task17.dll
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.pdb
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\Sem3Task17.genruntimeconfig.cache
+C:\Users\Nessime\Desktop\ДЗ С#\Gruppa4972\Sem3Task17\obj\Debug\net6.0\ref\Sem3Task17.dll
